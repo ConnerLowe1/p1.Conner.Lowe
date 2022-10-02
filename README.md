@@ -2,7 +2,7 @@
 
 Relevant Links:
 
-Repo: https://github.com/ConnerLowe1/p1.ConnerLowe/edit/main/README.md
+Repo: https://github.com/ConnerLowe1/p1.ConnerLowe/
 
 Presentation: https://connerlowe1.github.io/p1.ConnerLowe
 
