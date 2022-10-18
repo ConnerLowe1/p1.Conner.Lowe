@@ -2,9 +2,9 @@
 
 Relevant Links:
 
-Repo: https://github.com/ConnerLowe1/p1.ConnerLowe/
+Repo: https://github.com/ConnerLowe1/p1.Conner.Lowe/
 
-Presentation: https://connerlowe1.github.io/p1.ConnerLowe
+Presentation: https://connerlowe1.github.io/p1.Conner.Lowe
 
 
 ## C
@@ -68,6 +68,6 @@ The sketch above is my solution to the problems this interface offers. The floor
 
 The interface that I designed in Processing closely resembles my sketch, though is not exactly the same. Being that it is a "touch screen" design, there is no braille, and the operator keyhole has been removed.
 
-<img src="https://user-images.githubusercontent.com/114852176/193447065-f5fd9f91-29f6-4296-85a0-dbb106bc7a21.gif" width="400" height = "500"> <img src="https://user-images.githubusercontent.com/114852176/193447088-68c0ce97-95a5-437c-a485-5872c6a86cd9.gif" width="400" height = "500">
+<img src="https://user-images.githubusercontent.com/114852176/193447065-f5fd9f91-29f6-4296-85a0-dbb106bc7a21.gif" width="400" height = "500"> 
 
 
